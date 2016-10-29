@@ -1,0 +1,9 @@
+SHOW DATABASES;
+USE test;
+SHOW TABLES ;
+CREATE TABLE student(
+  number VARCHAR(1),
+  name VARCHAR(2),
+  age VARCHAR(18)
+
+);
